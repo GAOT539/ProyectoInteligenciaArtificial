@@ -1,0 +1,8 @@
+numpy==1.21.6
+opencv-python==4.5.5.64
+packaging==20.9
+pillow==8.4.0
+PyQt5==5.15.4
+PyQt5-Qt5==5.15.2
+PyQt5_sip==12.16.1
+pytesseract==0.3.13
